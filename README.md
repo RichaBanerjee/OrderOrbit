@@ -1,5 +1,7 @@
 <h1>Order Orbit</h1>
-![Order_Orbit-removebg-preview](https://github.com/RichaBanerjee/OrderOrbit/assets/119618895/34a85a72-f729-4028-987b-cf412cbb03a8)
+
+![Order Orbit](https://github.com/RichaBanerjee/OrderOrbit/assets/119618895/1690022e-ab84-4cb1-bd44-150cbd9654c9)
+
 <p>
   This is a Restaurant Order Management System for cloud Kitchen.
 </p>
